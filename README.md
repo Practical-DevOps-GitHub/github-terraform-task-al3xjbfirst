@@ -27,7 +27,6 @@ Write Terraform code that configures the GitHub repository according to the foll
 
 
 
-
 6. Create a Discord server and enable notifications when a pull request is created.
 
 7. For GitHub actions, perform the following: 
